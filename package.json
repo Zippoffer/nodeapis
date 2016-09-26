@@ -1,0 +1,24 @@
+{
+  "name": "nodeapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zippoffer/nodeapis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zippoffer/nodeapis/issues"
+  },
+  "homepage": "https://github.com/Zippoffer/nodeapis#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
